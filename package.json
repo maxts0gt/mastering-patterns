@@ -1,0 +1,23 @@
+{
+  "name": "mastering-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01-02-smallest-subarray.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxts0gt/mastering-patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxts0gt/mastering-patterns/issues"
+  },
+  "homepage": "https://github.com/maxts0gt/mastering-patterns#readme",
+  "dependencies": {
+    "collections": "^5.1.13"
+  }
+}
